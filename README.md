@@ -4,6 +4,9 @@
 
 This repository contains a batch file designed to assist users experiencing Blue Screen of Death (BSOD) issues associated with CrowdStrike from 2024-07-19. The provided batch file will safely remove the specified CrowdStrike channel file that are known to cause system instability.
 
+The problematic file is C:\Windows\System32\drivers\CrowdStrike\C-00000291*.sys
+The batch file will delete this and trigger a reboot.
+
 ## Warning
 
 Use this tool at your own risk. It is recommended to back up your data before proceeding. This tool is intended for advanced users who are familiar with bootable environments and system recovery.

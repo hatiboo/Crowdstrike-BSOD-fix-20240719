@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a batch file designed to assist users experiencing Blue Screen of Death (BSOD) issues associated with CrowdStrike conflicts. The provided batch file will safely remove the specified CrowdStrike channel file that are known to cause system instability.
+This repository contains a batch file designed to assist users experiencing Blue Screen of Death (BSOD) issues associated with CrowdStrike from 2024-07-19. The provided batch file will safely remove the specified CrowdStrike channel file that are known to cause system instability.
 
 ## Warning
 
